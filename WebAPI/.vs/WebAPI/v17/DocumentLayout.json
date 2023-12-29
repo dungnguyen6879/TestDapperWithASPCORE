@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\services\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\services\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\models\\basemodels\\basetrackedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\basemodels\\basetrackedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\models\\basemodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\basemodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\models\\basemodels\\basetrackedbymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\basemodels\\basetrackedbymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\models\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\models\\basemodels\\baseinttrackedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\basemodels\\baseinttrackedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\models\\basemodels\\baseinttrackedbymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\basemodels\\baseinttrackedbymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|f:\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16565E74-EDE3-498D-9B8A-D312A8C7585C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseTrackedModel.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Models\\BaseModels\\BaseTrackedModel.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\BaseModels\\BaseTrackedModel.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Models\\BaseModels\\BaseTrackedModel.cs",
+              "RelativeToolTip": "WebAPI\\Models\\BaseModels\\BaseTrackedModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T08:04:44.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseTrackedByModel.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Models\\BaseModels\\BaseTrackedByModel.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\BaseModels\\BaseTrackedByModel.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Models\\BaseModels\\BaseTrackedByModel.cs",
+              "RelativeToolTip": "WebAPI\\Models\\BaseModels\\BaseTrackedByModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T08:04:31.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactDTO.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Models\\DTO\\ContactDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DTO\\ContactDTO.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Models\\DTO\\ContactDTO.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DTO\\ContactDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T08:02:58.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Services\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\ContactRepository.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Services\\ContactRepository.cs",
+              "RelativeToolTip": "WebAPI\\Services\\ContactRepository.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAOMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T04:24:32.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ContactController.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAqwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T06:17:13.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContact.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Services\\IContact.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\IContact.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Services\\IContact.cs",
+              "RelativeToolTip": "WebAPI\\Services\\IContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T04:20:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Contact.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Models\\Contact.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T02:50:35.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Models\\BaseModels\\BaseModel.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\BaseModels\\BaseModel.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Models\\BaseModels\\BaseModel.cs",
+              "RelativeToolTip": "WebAPI\\Models\\BaseModels\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T08:06:42.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseIntTrackedModel.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Models\\BaseModels\\BaseIntTrackedModel.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\BaseModels\\BaseIntTrackedModel.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Models\\BaseModels\\BaseIntTrackedModel.cs",
+              "RelativeToolTip": "WebAPI\\Models\\BaseModels\\BaseIntTrackedModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T08:06:37.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\ApplicationDBContext.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebAPI\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T03:58:03.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseIntTrackedByModel.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Models\\BaseModels\\BaseIntTrackedByModel.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\BaseModels\\BaseIntTrackedByModel.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Models\\BaseModels\\BaseIntTrackedByModel.cs",
+              "RelativeToolTip": "WebAPI\\Models\\BaseModels\\BaseIntTrackedByModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T08:06:30.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-28T06:46:57.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-28T06:46:35.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "F:\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T06:43:06.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
